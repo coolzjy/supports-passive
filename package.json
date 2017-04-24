@@ -1,6 +1,6 @@
 {
   "name": "supports-passive",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Detect if user agent supports passive events.",
   "main": "index.js",
   "scripts": {
