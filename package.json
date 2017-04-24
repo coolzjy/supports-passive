@@ -1,0 +1,23 @@
+{
+  "name": "supports-passive",
+  "version": "0.0.0",
+  "description": "Detect if user agent supports passive events.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coolzjy/supports-passive.git"
+  },
+  "keywords": [
+    "passive",
+    "event"
+  ],
+  "author": "Zhang Visper",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coolzjy/supports-passive/issues"
+  },
+  "homepage": "https://github.com/coolzjy/supports-passive#readme"
+}
