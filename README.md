@@ -9,6 +9,6 @@ npm i supports-passive -S
 ```js
 import supportsPassive from 'supports-passive'
 
-el.addEventListener('scroll', handler,
+el.addEventListener('mousewheel', handler,
   supportsPassive ? { passive: true } : undefined)
 ```
